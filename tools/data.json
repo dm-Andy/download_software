@@ -1,0 +1,152 @@
+[{
+	"name": "QQ_TIM",
+	"category": "日常",
+	"desc": "QQ",
+	"downloadUrl": null,
+	"url": "https://tim.qq.com/download.html",
+	"xpath": "//*[@class='down-ietm windows']//*[@class='down-btn']/a/@href",
+	"css": null,
+	"latest_url": "https://dldir1.qq.com/qqfile/qq/TIM2.2.5/20882/TIM2.2.5.exe",
+  	"download": true
+}, {
+	"name": "Chrome",
+	"category": "日常",
+	"desc": "浏览器",
+	"downloadUrl": "https://dl.google.com/tag/s/appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={1925381C-09C8-AB01-A6E5-59F3FCBCABA4}&lang=zh-CN&browser=4&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=x64-stable-statsdef_1&installdataindex=empty/update2/installers/ChromeSetup.exe",
+	"url": "https://www.google.cn/chrome/",
+	"xpath": null,
+	"css": null,
+  	"download": true
+}, {
+	"name": "百度网盘",
+	"category": "日常",
+	"desc": "百度网盘",
+	"downloadUrl": null,
+	"url": "https://pan.baidu.com/download",
+	"xpath": "//*[@class='clint-guanjia']/@href",
+	"css": null,
+	"latest_url": "http://issuecdn.baidupcs.com/issue/netdisk/yunguanjia/BaiduNetdisk_6.2.0.exe",
+  	"download": true
+}, {
+	"name": "7-zip",
+	"category": "日常",
+	"desc": "解压缩软件",
+	"downloadUrl": null,
+	"url": "https://www.7-zip.org/",
+	"xpath": "//table[@cellpadding=6]//tr[3]//a/@href",
+	"css": null,
+	"latest_url": "https://www.7-zip.org/a/7z1805-x64.exe",
+  	"download": true
+}, {
+	"name": "potplayer",
+	"category": "日常",
+	"desc": "视频播放",
+	"downloadUrl": "http://get.daum.net/PotPlayer64/Version/Latest/PotPlayerSetup64.exe",
+	"url": "http://potplayer.daum.net/?lang=zh_CN",
+	"xpath": null,
+	"css": null,
+  	"download": true
+}, {
+	"name": "网易云音乐",
+	"category": "日常",
+	"desc": "网易云音乐",
+	"downloadUrl": "http://music.163.com/api/pc/download/latest",
+	"url": "http://music.163.com/#/download",
+	"xpath": null,
+	"css": null,
+  	"download": true
+}, {
+	"name": "搜狗输入法",
+	"category": "日常",
+	"desc": "搜狗输入法",
+	"downloadUrl": null,
+	"url": "https://pinyin.sogou.com/",
+	"xpath": "//*[@class='banner_swap']/a[@id='banner0_link2']/@href",
+	"css": null,
+	"latest_url": "http://cdn2.ime.sogou.com/1ba1b5e03fffc4939a0de2a2f1508bd8/5b4ef0a3/dl/index/1531213050/sogou_pinyin_90c.exe",
+  	"download": true
+}, {
+	"name": "Picasa3",
+	"category": "日常",
+	"desc": "看图软件",
+	"downloadUrl": null,
+	"url": "http://dl.pconline.com.cn/html_2/1/111/id=10103&pn=0&linkPage=1.html",
+	"xpath": "//*[@class='mb10']//*[@class='links-wrap']/a[1]/@href",
+	"css": null,
+	"latest_url": "http://dlc2.pconline.com.cn/filedown_10103_7003983/7mUU42xD/picasa39-setup.exe",
+  	"download": true
+}, {
+	"name": "7-taskbar",
+	"category": "高效",
+	"desc": "任务栏管理",
+	"downloadUrl": "https://rammichael.com/downloads/7tt_setup.exe",
+	"url": "https://rammichael.com/7-taskbar-tweaker",
+	"xpath": null,
+	"css": null,
+  	"download": true
+}, {
+	"name": "autohotkey",
+	"category": "高效",
+	"desc": "系统快捷键配置",
+	"downloadUrl": "https://www.autohotkey.com/download/ahk-install.exe",
+	"url": "https://www.autohotkey.com/download/",
+	"xpath": null,
+	"css": null,
+  	"download": true
+}, {
+	"name": "everything",
+	"category": "高效",
+	"desc": "本地文件搜索",
+	"downloadUrl": "http://www.voidtools.com//Everything-1.4.1.895.x64-Setup.exe",
+	"url": "http://www.voidtools.com/",
+	"xpath": null,
+	"css": null,
+  	"download": true
+}, {
+	"name": "cmder",
+	"category": "开发",
+	"desc": "命令行工具",
+	"downloadUrl": null,
+	"url": "http://cmder.net/",
+	"xpath": "//*[@class='download']//*[@id='7z']/@href",
+	"css": null,
+	"latest_url": "https://github.com/cmderdev/cmder/releases/download/v1.3.6/cmder.7z",
+  	"download": true
+}, {
+	"name": "sublimetext",
+	"category": "日常",
+	"desc": "文本编辑器",
+	"downloadUrl": null,
+	"url": "https://www.sublimetext.com/",
+	"xpath": "//*[@class='win show_64']/a/@href",
+	"css": null,
+	"latest_url": "https://download.sublimetext.com/Sublime Text Build 3176 x64 Setup.exe",
+  	"download": true
+}, {
+	"name": "pycharm",
+	"category": "开发",
+	"desc": "python开发IDE",
+	"downloadUrl": "https://download.jetbrains.com/python/pycharm-professional-2018.1.4.exe",
+	"url": "https://www.jetbrains.com/pycharm/download/#section=windows",
+	"xpath": null,
+	"css": null,
+  	"download": true
+}, {
+	"name": "vscode",
+	"category": "开发",
+	"desc": "轻量级IDE",
+	"downloadUrl": "https://vscode-update.azurewebsites.net/latest/win32-x64/stable",
+	"url": "https://code.visualstudio.com/Download",
+	"xpath": null,
+	"css": null,
+  	"download": true
+}, {
+	"name": "SwitchyOmega",
+	"category": "google扩展",
+	"desc": "代理插件",
+	"downloadUrl": "https://www.switchyomega.com/static/file/v2.5.14/SwitchyOmega_Chromium.crx",
+	"url": "https://www.switchyomega.com/",
+	"xpath": null,
+	"css": null,
+  	"download": true
+}]
