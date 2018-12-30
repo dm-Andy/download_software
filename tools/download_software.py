@@ -15,7 +15,7 @@ def main():
         with open(DATA_PATH, 'r', encoding='utf-8') as f:
             data = json.loads(f.read())
 
-        #把数据放到队列
+        # 把数据放到队列
         queue_link = Queue()
         [queue_link.put(x) for x in data if x.get('download') == True]
         
